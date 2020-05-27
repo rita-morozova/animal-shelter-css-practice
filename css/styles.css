@@ -1,0 +1,25 @@
+body {
+  background-color: rosybrown;
+}
+h1 {
+  color: purple;
+  font-weight: bold;
+  font-size: 20pt;
+  text-align: center;
+}
+h2 {
+  color: purple;
+  font-weight: bold;
+  font-size: 16pt;
+  text-align: center;
+}
+
+img.main {
+  float: right;
+
+}
+
+.dog p {
+  width: 300px;
+  float: left;
+}
