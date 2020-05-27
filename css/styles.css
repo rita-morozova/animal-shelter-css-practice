@@ -19,6 +19,11 @@ img.main {
 
 }
 
+.column{
+  width: 300 px;
+  float left;
+}
+
 .dog p {
   width: 300px;
   float: left;
